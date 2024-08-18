@@ -1,0 +1,2 @@
+Develop a Python script that opens an existing text file named "inventory.txt" in read mode and displays 
+the contents of the file line by line.
